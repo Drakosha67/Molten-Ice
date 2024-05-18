@@ -5,4 +5,4 @@ Among the snowy wasteland, somewhere on an unknown planet, in an unknown solar s
 
 For the map to work correctly, mods are required:Sapphirium https://github.com/3snake3/sapphirium
 
-The map is a rework of the original "Molten Lake" map by Anuke.
+The map is extended version of the original "Molten Lake" map by Anuke.
