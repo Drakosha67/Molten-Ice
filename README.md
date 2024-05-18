@@ -1,1 +1,2 @@
 # Molten-Ice
+Among the snowy wasteland, somewhere on an unknown planet, in an unknown solar system, there is an ideal spherical formation of basalt and contour, and it is unknown from what it was formed: whether it was an asteroid or a spaceship - Your task is to get close to the “Sphere”, establish production Basic resources will penetrate into the core and begin to create rare resources that are unusual for our system.
