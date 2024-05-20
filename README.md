@@ -1,5 +1,5 @@
 # Molten-Ice
-The map is intended for Mindustry.
+The map is intended for Mindustry v7
 
 Among the snowy wasteland, somewhere on an unknown planet, in an unknown solar system, there is an ideal spherical formation of basalt and carbon, and it is unknown from what it was formed: whether it was an asteroid or a spaceship - Your task is to get close to the “Sphere”, establish production basic resources,penetrate into the core and begin to create rare resources that are unusual for our system.
 
